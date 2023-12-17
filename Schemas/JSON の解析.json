@@ -1,10 +1,7 @@
 {
     "type": "array",
     "items": {
-        "type": [
-            "object",
-            "null"
-        ],
+        "type": "object",
         "properties": {
             "@@odata.type": {
                 "type": [
@@ -176,10 +173,7 @@
             },
             "entityimage_timestamp": {},
             "internalemailaddress": {
-                "type": [
-                    "string",
-                    "null"
-                ]
+                "type": "string"
             },
             "_modifiedby_value": {},
             "address1_county": {},
@@ -428,10 +422,7 @@
             "address1_line3": {},
             "address2_country": {},
             "fullname": {
-                "type": [
-                    "string",
-                    "null"
-                ]
+                "type": "string"
             },
             "azureactivedirectoryobjectid@odata.type": {
                 "type": [
